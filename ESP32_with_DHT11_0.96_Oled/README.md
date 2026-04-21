@@ -35,6 +35,15 @@ This project is designed to monitor temperature and humidity using the DHT11 sen
 - Ensure your Esp32 is powered.
 - Open the Serial Monitor in the Arduino IDE to see real-time data.
 
+## Working Image
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/iprince10/ESP32-Wroom/main/ESP32_with_DHT11_0.96_Oled/Esp32_dht11_oled.jpeg" width="400">
+    </td>
+  </tr>
+</table>
+
 ## Credits
 
 - **Designed by**: Prince Jha
