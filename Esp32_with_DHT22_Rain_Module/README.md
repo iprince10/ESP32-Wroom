@@ -57,7 +57,7 @@ This project is a simple IoT-based weather station using ESP32. It measures temp
 ## Working Image
 
 <p align="left">
-  <img src="https://github.com/iprince10/ESP32-Wroom/blob/main/Esp32_Dht22_Rain_Module/Esp32_Dht22_RainModule.jpeg" height="600"/>
+  <img src="https://github.com/iprince10/ESP32-Wroom/blob/main/Esp32_with_DHT22_Rain_Module/Esp32_Dht22_RainModule.jpeg" height="600"/>
 </p>
 
 ## Owner and Licence
