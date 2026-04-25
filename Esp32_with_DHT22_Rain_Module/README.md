@@ -13,7 +13,7 @@ This project is a simple IoT-based weather station using ESP32. It measures temp
 
 ## Components Required
 
-- ESP32-WROOM-32  
+- ESP32  
 - DHT22 Temperature and Humidity Sensor  
 - Rain Sensor Module (AO + DO)  
 - 0.96" OLED Display (SSD1306, I2C)  
