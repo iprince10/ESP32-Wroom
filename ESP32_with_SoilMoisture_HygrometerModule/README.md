@@ -44,9 +44,16 @@ This project is a simple soil moisture monitoring system using ESP32. It reads m
 
 ## Working Image
 
-<p align="left">
-  <img src="" height="600"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/iprince10/ESP32-Wroom/blob/main/ESP32_with_SoilMoisture_HygrometerModule/Esp32_SoilMoistureSensor.jpeg" height="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/iprince10/ESP32-Wroom/blob/main/ESP32_with_SoilMoisture_HygrometerModule/Esp32_SoilMoistureSensor.png" height="400">
+    </td>
+  </tr>
+</table>
 
 ## Owner and Licence
 Made by **Prince Jha** . This project is free source and open for all :)
